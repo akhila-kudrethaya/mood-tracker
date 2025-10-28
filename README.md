@@ -45,4 +45,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built using Python and the openpyxl library.
 - Inspired by the need for simple mood tracking and emotional awareness.
 
-Happy mood tracking! 🌟
+Happy mood tracking! 🌟❤︎
